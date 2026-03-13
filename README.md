@@ -1,6 +1,6 @@
 # Polestar VC150SDD Insulation Model 🧊
 
-**Group 3: Fraser, Sasha, Georgio, Amelia**
+**Group 3**
 
 A MATLAB thermal model for testing different insulation materials in the Polestar Cooling VC150SDD solar-powered vaccine refrigerator. Built for our Sustainability in Engineering coursework (Option 4: Insulation & Heat Transfer).
 
