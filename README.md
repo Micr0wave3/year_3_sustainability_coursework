@@ -1,4 +1,4 @@
-# Polestar VC150SDD Insulation Model 🧊
+# Polestar VC150SDD Insulation Model 
 
 **Group 3**
 
