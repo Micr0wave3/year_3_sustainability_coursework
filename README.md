@@ -8,7 +8,7 @@ A MATLAB thermal model for testing different insulation materials in the Polesta
 
 ## What Does This Model Do?
 
-In plain English: it calculates **how much heat leaks into the fridge** through its walls for different insulation materials, and tells you whether the compressor can handle it.
+It calculates **how much heat leaks into the fridge** through its walls for different insulation materials, and tells you whether the compressor can handle it.
 
 It can do two things:
 
@@ -46,7 +46,7 @@ Open `run_model.m` in MATLAB.
 
 ### Step 3: Press the green Run button (or type `run_model` in the Command Window)
 
-That's it. You'll get:
+You'll get:
 - A printed summary in the Command Window with all the numbers
 - Two bar chart figures comparing the materials
 - Two saved images (`material_comparison.png` and `u_value_comparison.png`)
